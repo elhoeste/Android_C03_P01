@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">Mi primer proyecto Android</string>
+    <string name="app_name">Proyecto Android 1</string>
     <string name="mensaje1">Bienvenido</string>
     <string name="boton1">Entrar</string>
+    <string name="contentDescription" translatable="false">Imagen logo Puppy</string>
 </resources>
